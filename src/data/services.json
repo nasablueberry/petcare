@@ -1,0 +1,98 @@
+[
+  {
+    "serviceId": 1,
+    "serviceName": "Winter Coat Fitting for Dogs",
+    "providerName": "PawCare Studio",
+    "providerEmail": "info@pawcare.com",
+    "price": 25,
+    "rating": 4.9,
+    "slotsAvailable": 4,
+    "description": "Custom coat fitting and warm outfit options to keep your dog comfortable in the cold. Our expert staff will help you choose the perfect winter wear for your furry friend, ensuring warmth and style throughout the season.",
+    "image": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&h=600&fit=crop",
+    "category": "Clothing"
+  },
+  {
+    "serviceId": 2,
+    "serviceName": "Winter Grooming & Paw Treatment",
+    "providerName": "CozyPets Grooming",
+    "providerEmail": "hello@cozypets.com",
+    "price": 30,
+    "rating": 4.8,
+    "slotsAvailable": 3,
+    "description": "Professional grooming with moisturizing paw balm and winter-safe shampoo. Protect your pet's paws from ice, salt, and cold weather with our specialized treatment.",
+    "image": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&h=600&fit=crop",
+    "category": "Grooming"
+  },
+  {
+    "serviceId": 3,
+    "serviceName": "Indoor Playtime & Exercise",
+    "providerName": "Winter PlayPaws",
+    "providerEmail": "play@winterplaypaws.com",
+    "price": 20,
+    "rating": 4.7,
+    "slotsAvailable": 8,
+    "description": "Keep your pets active during winter with our supervised indoor play sessions. Climate-controlled facilities ensure your pet gets exercise regardless of outdoor conditions.",
+    "image": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&h=600&fit=crop",
+    "category": "Exercise"
+  },
+  {
+    "serviceId": 4,
+    "serviceName": "Winter Wellness Check-up",
+    "providerName": "SnowVet Clinic",
+    "providerEmail": "care@snowvet.com",
+    "price": 45,
+    "rating": 4.9,
+    "slotsAvailable": 2,
+    "description": "Comprehensive winter health check including joint assessment, skin and coat evaluation, and nutritional consultation for cold weather.",
+    "image": "https://images.unsplash.com/photo-1530041539828-114de669390e?w=800&h=600&fit=crop",
+    "category": "Healthcare"
+  },
+  {
+    "serviceId": 5,
+    "serviceName": "Pet Sitting - Winter Special",
+    "providerName": "Warm Home Pet Care",
+    "providerEmail": "contact@warmhomepets.com",
+    "price": 35,
+    "rating": 4.8,
+    "slotsAvailable": 5,
+    "description": "Professional in-home pet sitting with extra care during winter months. We ensure your pets stay warm, fed, and loved while you're away.",
+    "image": "https://images.unsplash.com/photo-1583511655857-d19b40a7a54e?w=800&h=600&fit=crop",
+    "category": "Care"
+  },
+  {
+    "serviceId": 6,
+    "serviceName": "Winter Diet & Nutrition Consultation",
+    "providerName": "PetNutri Experts",
+    "providerEmail": "info@petnutri.com",
+    "price": 40,
+    "rating": 4.7,
+    "slotsAvailable": 6,
+    "description": "Personalized winter nutrition plan to help your pet maintain healthy weight and energy levels during colder months. Expert advice on supplements and meal planning.",
+    "image": "https://images.unsplash.com/photo-1589924691995-400dc9ecc119?w=800&h=600&fit=crop",
+    "category": "Nutrition"
+  },
+  {
+    "serviceId": 7,
+    "serviceName": "Heated Pet Bed Installation",
+    "providerName": "Cozy Corner Pets",
+    "providerEmail": "hello@cozycorner.com",
+    "price": 55,
+    "rating": 4.9,
+    "slotsAvailable": 3,
+    "description": "Professional installation of safe, thermostat-controlled heated beds. Keep your pet warm and comfortable throughout the winter nights.",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+    "category": "Comfort"
+  },
+  {
+    "serviceId": 8,
+    "serviceName": "Winter Safety Training",
+    "providerName": "SafePaws Academy",
+    "providerEmail": "train@safepaws.com",
+    "price": 50,
+    "rating": 4.8,
+    "slotsAvailable": 4,
+    "description": "Training sessions focused on winter safety: ice navigation, recall in snow, and cold weather behavior management.",
+    "image": "https://images.unsplash.com/photo-1548681528-6a5c45b66b42?w=800&h=600&fit=crop",
+    "category": "Training"
+  }
+]
